@@ -21,4 +21,4 @@ Sistema CRUD de escritorio que permite registrar, actualizar, eliminar y consult
 ¿Cómo ejecutar el programa?
 
 1. Clona este repositorio:
-```bash
+```bash                                https:github.com/MiguelRamirez30/crud-upjr.git   =>  Login- => App.py
