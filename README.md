@@ -2,6 +2,8 @@
  Sistema CRUD en Python con Tkinter y SQLite
 
 Autor: Miguel Ramirez Leonardo
+---
+
 Universidad Politécnica de Juventino Rosas
 
 ---
