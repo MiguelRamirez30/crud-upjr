@@ -34,5 +34,5 @@ Este programa permite agregar, modificar, eliminar y visualizar registros de per
 - Campos vacíos: Asegúrate de ingresar nombre y edad antes de agregar o actualizar.
 
 Contacto
-Miguel Ramírez — 3230302492@upjr.edu.mx
+Miguel Ramírez — 323030249@upjr.edu.mx
 
