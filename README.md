@@ -1,6 +1,7 @@
  CRUD-UPJR - Sistema CRUD en Python con Tkinter y SQLite
 
 Autor: Miguel Ramírez Leonardo
+
 Universidad Politécnica de Juventino Rosas
 
 Descripción
