@@ -26,6 +26,7 @@ SQLite (base de datos local)
 Tkinter (interfaz gráfica)
 
  Manual de Usuario - Sistema CRUD UPJR
+ 
  Introducción
 
 Este sistema permite la gestión básica de datos de estudiantes. Puedes:
