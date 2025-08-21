@@ -100,4 +100,5 @@ Acceso denegado: Verifica usuario y contraseña en la pantalla de login.
 Contacto
 
 Miguel Ramírez Leonardo
+
 Correo: 323030249@upjr.edu.mx
